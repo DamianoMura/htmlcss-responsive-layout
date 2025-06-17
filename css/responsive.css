@@ -1,4 +1,16 @@
 /* Soluzione qui */
+@media all and (min-width:576px) {
+  .clearfix img {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+  }
+
+  .btn {
+    width: 20%;
+  }
+}
+
 @media all and (min-width:768px) {
 
   #topbar {
@@ -27,15 +39,8 @@
     width: calc(100% / 3);
   }
 
-  .btn {
-    width: 20%;
-  }
 
-  .clearfix img {
-    float: left;
-    margin-right: 10px;
-    margin-bottom: 5px;
-  }
+
 }
 
 @media all and (min-width:992px) {

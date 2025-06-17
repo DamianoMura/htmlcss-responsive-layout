@@ -69,4 +69,13 @@
     justify-content: center;
   }
 
+  footer {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  footer address {
+    text-align: left;
+  }
+
 }

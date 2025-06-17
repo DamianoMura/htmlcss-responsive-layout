@@ -9,7 +9,8 @@
     padding: 30px;
   }
 
-  .recipe-origin {
+  .recipe-origin,
+  .ads {
     display: block;
   }
 

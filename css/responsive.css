@@ -15,7 +15,7 @@
   }
 
   .recipe-title {
-    font-size: 2rem;
+    font-size: 1.3rem;
   }
 
   .quick-notes ul {
@@ -35,5 +35,12 @@
     float: left;
     margin-right: 10px;
     margin-bottom: 5px;
+  }
+}
+
+@media all and (min-width:992px) {
+
+  .recipe-title {
+    font-size: 1.6rem;
   }
 }

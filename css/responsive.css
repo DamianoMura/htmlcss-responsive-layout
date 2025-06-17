@@ -60,4 +60,13 @@
     width: 30%;
   }
 
+  .social-networks .label {
+    display: block;
+  }
+
+  .btn {
+    display: flex;
+    justify-content: center;
+  }
+
 }

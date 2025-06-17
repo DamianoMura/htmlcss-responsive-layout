@@ -43,4 +43,9 @@
   .recipe-title {
     font-size: 1.6rem;
   }
+
+  .quick-notes ul {
+    display: block;
+  }
+
 }

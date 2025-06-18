@@ -75,13 +75,10 @@
   }
 
   .social-networks .label {
-    display: block;
+    display: inline;
   }
 
-  .social-networks .btn {
-    display: flex;
-    justify-content: center;
-  }
+
 
   footer {
     display: flex;

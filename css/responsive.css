@@ -23,7 +23,7 @@
 
   .recipe-origin,
   .ads {
-    display: block;
+    display: inline;
   }
 
   .recipe-title {

@@ -21,9 +21,12 @@
     padding: 30px;
   }
 
-  .recipe-origin,
-  .ads {
+  .recipe-origin {
     display: inline;
+  }
+
+  .ads {
+    display: block;
   }
 
   .recipe-title {

@@ -72,7 +72,7 @@
     display: block;
   }
 
-  .btn {
+  .social-networks .btn {
     display: flex;
     justify-content: center;
   }

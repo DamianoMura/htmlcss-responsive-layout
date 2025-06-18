@@ -62,10 +62,16 @@
 
   .recipe-video {
     width: 70%;
+    max-height: 420px;
+
   }
 
   .recipe-info {
     width: 30%;
+  }
+
+  .quick-notes ul li {
+    width: 100%;
   }
 
   .social-networks .label {
